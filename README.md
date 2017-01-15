@@ -8,10 +8,12 @@ We will be exploring:
 
 - Do students in more popular majors make more money?
   - Using scatter plots
-How many majors are predominantly male? Predominantly female?
-Using histograms
-Which category of majors have the most students?
-Using bar plots
+- How many majors are predominantly male? Predominantly female?
+  - Using histograms
+- Which category of majors have the most students?
+  - Using bar plots
 
 ### Files & Data
 
+- *collegemajorearnings.ipynb - Code in Jupyter Notebook to visualize the data.*
+- *recent-grads.csv - Cleaned dataset on the job outcomes of students who graduated from college between 2010 and 2012*
